@@ -1,6 +1,6 @@
 # Financial Risk Analysis App
 
-Aplikacja Streamlit do analizy ryzyka instrumentow finansowych na podstawie danych z Yahoo Finance.
+Aplikacja do analizy ryzyka instrumentow finansowych na podstawie danych z Yahoo Finance przy użyciu biblioteki streamlit.
 
 ## Funkcjonalnosci
 
